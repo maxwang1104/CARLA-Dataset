@@ -1,5 +1,3 @@
-# Carla dataset readme
-
 # Carla command (carla ver. 0.9.13)
 
 1. One terminal for pythonAPI
